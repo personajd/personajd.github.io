@@ -41,5 +41,5 @@ $(document).ready(function(){
 		//mailto:manish@simplygraphix.com?subject=Feedback for webdevelopersnotes.com&body=The Tips and Tricks section animatedParent is great
 		//&cc=anotheremailaddress@anotherdomain.com
 		//&bcc=onemore@anotherdomain.com
-        window.location.href = "mailto:" + "sales@JdPersona.in"+ "?subject=" + subject +"&body=To Persona JD Enterprises Consider My  Email:"+email+" And Phone Number:"+mobNum+" In The Subject Mentioned Above"+"&cc=jdpersona8284@gmail.com";
+        window.location.href = "mailto:" + "sales@JdPersona.com"+ "?subject=" + subject +"&body=To Persona JD Enterprises Consider My  Email:"+email+" And Phone Number:"+mobNum+" In The Subject Mentioned Above"+"&cc=jdpersona8284@gmail.com";
       }
